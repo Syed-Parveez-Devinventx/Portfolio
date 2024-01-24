@@ -1,0 +1,78 @@
+.RP {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;object-fit: contain;
+    aspect-ratio: 3/3;
+    padding: 3rem;
+    padding-bottom: 0;
+    /* display: inline-block; */
+}
+
+.RED {
+    display: flex;
+    background-color: #3E4A62;
+    width: 50vh;
+    height: 101vh;
+    margin-right: 5rem;
+}
+
+.info {
+    width: 160vh;
+    height: 101vh;
+    display: flex;
+    float: right;
+    margin-left: 5rem;
+    background-color: #D9D9D7;
+}
+
+.Rname {
+    color: #FFF;
+    display: inline-block;
+    margin-left: -21.74rem;
+    padding-right: -5rem;
+    padding-top: 16rem;
+    font-size: x-large;
+}
+.InfoBoxs {
+    width: 50vh;
+    height: 50vh;
+    margin: 1rem;
+}
+
+h3 {
+    font-size: xx-large;
+    color: #C24D2C;
+}
+
+
+.List {
+    font-size: x-large;
+    color: #000;
+}
+
+.Aboutme {
+    display: inline-block;
+    position: absolute;
+    margin-top: 23rem;
+    margin-left: 1rem;
+    font-size: xx-large;
+}
+
+.Aboutinfo {
+    display: inline-block;
+    position: absolute;
+    margin-top: 26rem;
+    margin-left: 2rem;
+    font-size: 1.20rem;
+}
+
+.Aboutinfo {
+    color: #000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#join {
+    width: 100vhpx;
+    height: 100vhpx;
+  }
